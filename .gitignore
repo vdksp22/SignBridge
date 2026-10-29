@@ -23,6 +23,7 @@ models/*
 *.pt
 *.pth
 *.onnx
+*.joblib
 
 # Experiment outputs
 outputs/
